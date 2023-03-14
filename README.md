@@ -1,7 +1,6 @@
 # thailecongat
 ### Hi there 👋
-[![wakatime](https://wakatime.com/badge/user/d77b13b3-1ff5-4e0d-b737-5084ca752460.svg)](https://wakatime.com/@d77b13b3-1ff5-4e0d-b737-5084ca752460)
-Since Feb 1 2021
+
 <!--
 **thailecongat/thailecongat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
